@@ -12,3 +12,15 @@ For example:
 ```markdown
 ![Flowchart](https://cdn.jsdelivr.net/gh/webc-fs/-@main/your-diagram.svg)
 ```
+
+## Projects
+
+Below are the projects within our organization using this CDN:
+
+### [webc-site/math](https://github.com/webc-site/math)
+
+A lightweight TeX-to-MathML compiler for Markdown formula rendering.
+
+Workflow flowchart rendered using this CDN:
+
+![Math compiler workflow](https://cdn.jsdelivr.net/gh/webc-fs/-@main/math.svg)
